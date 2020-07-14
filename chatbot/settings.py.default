@@ -1,0 +1,11 @@
+GROUP_ID = 162141966
+TOKEN = ""
+
+DB_CONNECTION_STRING = {
+    'drivername': 'postgres',
+    'port': '5432',
+    'host': '127.0.0.1',
+    'database': '',
+    'username': '',
+    'password': ''
+}
